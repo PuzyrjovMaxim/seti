@@ -1,0 +1,3 @@
+﻿  Server.cpp
+D:\seti\4\Project2\Server.cpp(83,7): warning C4101: buff: неиспользованная локальная переменная
+  Project2.vcxproj -> D:\seti\4\Project1\x64\Debug\Project2.exe
